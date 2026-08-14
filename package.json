@@ -2,9 +2,9 @@
   "name": "d365-job-hunter",
   "version": "1.0.0",
   "dependencies": {
-    "airtable": "^2.0.0",
-    "axios": "^1.6.2",
-    "nodemailer": "^6.9.7",
-    "dotenv": "^16.3.1"
+    "airtable": "1.2.2",
+    "axios": "1.6.2",
+    "nodemailer": "6.9.7",
+    "dotenv": "16.3.1"
   }
 }
